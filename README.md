@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cleamer
+- 👋 Hi, I’m @cloer
 - 👀 I’m interested all languages
-- 🌱 I’m currently learning HTML, CSS, Pyton.
+- 🌱 I’m currently learning HTML, CSS, Js, Go Pyton.
